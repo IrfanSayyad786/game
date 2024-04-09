@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+    <section>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: your.email@example.com</li>
+            <li>Phone: (123) 456-7890</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></li>
+            <li>Portfolio: <a href="https://www.yourportfolio.com" target="_blank">yourportfolio.com</a></li>
+        </ul>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <p>BS in Computer Science, University XYZ, Graduation Year</p>
+    </section>
+    <section>
+        <h2>Experience</h2>
+        <h3>Web Developer at ABC Company</h3>
+        <p>Responsible for designing and developing responsive web applications using HTML, CSS, and JavaScript.</p>
+    </section>
+    <!-- Add more sections for skills, projects, etc. -->
+</body>
+</html>
